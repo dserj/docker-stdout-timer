@@ -1,0 +1,23 @@
+{
+  "name": "docker-stdout-timer",
+  "version": "1.0.0",
+  "description": "Stdout simulator",
+  "main": "timer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dserj/docker-stdout-timer.git"
+  },
+  "keywords": [
+    "timer",
+    "stdout"
+  ],
+  "author": "Sergey Denikin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dserj/docker-stdout-timer/issues"
+  },
+  "homepage": "https://github.com/dserj/docker-stdout-timer#readme"
+}
