@@ -1,5 +1,5 @@
-# docker-stdout-timer
-Docker container for stdout simulation
+# Docker stdout timer
+Docker container for stdout simulation. World needs more timers like this.
 
 # Sample Dockerfile
 
