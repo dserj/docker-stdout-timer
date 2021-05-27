@@ -4,7 +4,7 @@ console.log(`Timeout: ${timeout}`);
 
 function printTime() {
   console.log(new Date(Date.now()).toISOString());
-  console.log({ "jsonDate": new Date(Date.now()).toISOString() });
+  console.log(JSON.stringify({ "jsonDate": new Date(Date.now()).toISOString() }));
   setTimeout(printTime, timeout);
 }
 
